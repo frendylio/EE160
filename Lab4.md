@@ -287,3 +287,15 @@ Accumulated Value: $147008.44
 Enter initial amount (0 to exit): 0
 ... Exiting Program ...
 ```
+
+# Extra
+When you do printf what does %4.2f mean?
+
+It has precision 4 and 2 decimal places.
+
+Basically 
+```c
+% (Precision) . (How_Many_decimals) (Data type)
+```
+
+Example
