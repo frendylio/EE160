@@ -48,7 +48,6 @@ Expected output
 .
 .
 1
-0
 BLASTOFF!
 ```
 
