@@ -1,5 +1,11 @@
 # Lab 8
 
+## Symbolic Link
+More info: https://www.gnu.org/software/libc/manual/html_node/Symbolic-Links.html
+
+## Makefiles
+More info: https://www.gnu.org/software/make/manual/html_node/Introduction.html
+
 ## Task
 - Copy the makefile from ~ee160/Code.lect/Roman to your Lab8 directory
 - Type `make links`
@@ -8,6 +14,15 @@
   - roman.c
   - driver.c
   
+```
+You can try adding these command in your makefile to copy the files.
+
+copy_c_files: 
+	cp roman.c test1.c && cp driver.c test3.c
+	unlink roman.c && unlink driver.c
+	mv test1.c roman.c && mv test3.c driver.c
+```
+
 ## roman (roman.c, driver.c)
 - Ignore leading spaces and tabs
 - is_roman() should return "0" if invalid roman number
