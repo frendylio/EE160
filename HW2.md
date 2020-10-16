@@ -1,5 +1,6 @@
 # Lab 7
-Lab 6 Due next week.
+
+## Lab 6 Due next week.
 
 ## Homework 2
 - You will only be working on Homework 2 today.
