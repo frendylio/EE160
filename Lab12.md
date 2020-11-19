@@ -88,3 +88,5 @@ Lab 12 due next week.
 ```bash
   grade -lab12s3,ee160
 ```
+
+- Also, do not forget to send me an image of your drawing for **Exploring Pointers**
