@@ -105,3 +105,5 @@ Enter an angle in radians:  [CTRL+D]
 ```bash
   grade -lab11s3,ee160
 ```
+
+# Credit to Ethan (TA section 1)

@@ -88,3 +88,5 @@ Lab 12 due next week.
 ```bash
   grade -lab12s3,ee160
 ```
+
+# Credit to Ethan (TA section 1)
